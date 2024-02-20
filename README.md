@@ -7,7 +7,7 @@ Api REST de una billetera virtual desarrollada en Laravel. Contiene las funcione
 
 [Repositorio orginal](https://github.com/alkemyTech/MSM-PHP-T3)
 
-# Colaboradores
+## Colaboradores
 - Emilio Vernet
 - Lautaro Pereyra
 - Gustavo Ferreyra
