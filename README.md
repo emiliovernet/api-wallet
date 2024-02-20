@@ -17,7 +17,7 @@ Asegurate de tener las siguientes versiones de software instaladas antes de come
 
 ## Documentación de las solicitudes
 
-Podés encontrar la colección de Postman para este proyecto [acá]() 
+Podés encontrar la colección de Postman para este proyecto [acá](https://github.com/emiliovernet/api-wallet/blob/main/api-wallet.postman_collection.json) 
 
 
 ## Configuración del entorno local (opcional)
