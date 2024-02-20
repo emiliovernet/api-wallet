@@ -1,14 +1,25 @@
+
+
+
 # Descripción del proyecto
 
-Este proyecto es una api de una billetera virtual desarrollada en Laravel. Contiene las funciones bancarias básicas como: transacciones, depósitos, pagos y plazos fijos.
+Api REST de una billetera virtual desarrollada en Laravel. Contiene las funciones bancarias básicas como: transacciones, depósitos, pagos y plazos fijos.
+
+[Repositorio orginal](https://github.com/alkemyTech/MSM-PHP-T3)
+
+# Colaboradores
+- Emilio Vernet
+- Lautaro Pereyra
+- Gustavo Ferreyra
+- Nicolás Ruiz
 
 ## Requisitos Previos
 
 Asegurate de tener las siguientes versiones de software instaladas antes de comenzar:
 
-- [PHP](https://www.php.net/): Versión PHP 7.3 o superior.
-- [Composer](https://getcomposer.org/): Versión Composer 2.0 o superior.
-- [Git](https://git-scm.com/): Versión Git 2.0 o superior.
+- [PHP](https://www.php.net/): 7.3 o superior.
+- [Composer](https://getcomposer.org/): 2.0 o superior.
+- [Git](https://git-scm.com/): 2.0 o superior.
 
 ## Librerías utilizadas
 
@@ -17,8 +28,7 @@ Asegurate de tener las siguientes versiones de software instaladas antes de come
 
 ## Documentación de las solicitudes
 
-Podés encontrar la colección de Postman para este proyecto [acá](https://github.com/emiliovernet/api-wallet/blob/main/api-wallet.postman_collection.json) 
-
+Colección de Postman disponible [acá](https://github.com/emiliovernet/api-wallet/blob/main/api-wallet.postman_collection.json) 
 
 ## Configuración del entorno local (opcional)
 
